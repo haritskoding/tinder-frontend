@@ -13,7 +13,7 @@ const Header = () => {
                     className="header__icon" />
             </IconButton>
             <img className="header__logo"
-                src={Logo}
+                src='https://www.logo.wine/a/logo/Tinder_(app)/Tinder_(app)-Flame-Logo.wine.svg'
                 alt="header" />
             <IconButton>
                 <Forum fontSize="large"
