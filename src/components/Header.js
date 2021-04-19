@@ -2,8 +2,7 @@ import React from 'react';
 import "./header.css";
 import { Forum, Person } from '@material-ui/icons';
 import { IconButton } from '@material-ui/core';
-import Logo from '../img/logo.png'
-
+// import Logo from '../img/logo.png'
 
 const Header = () => {
     return (
